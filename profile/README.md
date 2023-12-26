@@ -11,7 +11,7 @@ in the Xylist community.<br>
 🏠 Organization base: Indonesia
 🗼 Address: Suarakarta, Pasarkliwon
 🌍 Global Network: GPsT45-PPT6
-🛠️ Owner : il4x
+🛠️ Owner : il4rx
 ```
 
 # Next Project
